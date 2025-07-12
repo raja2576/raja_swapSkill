@@ -154,20 +154,8 @@ Open a Pull Request describing your changes.
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📣 Credits
-
-Designed and developed by \[Your Name or Team Name]
-With ❤️ for peer-to-peer learning and community growth.
 
 ```
 
 ---
-
-Let me know if you'd like a version tailored for deployment (e.g., with Vercel, Railway, Heroku, etc.) or need help setting up GitHub Actions, Docker, or Swagger API docs.
 ```
